@@ -9,6 +9,3 @@ while n-2:
        b = c
        print(c, end=" ")
        n = n-1
-       
-       
-    
